@@ -1,3 +1,4 @@
+<img src="https://github.com/md-alamin2/md-alamin2/blob/main/github-cover.png"/>
 <h1 align="center">👋 Hi, I'm Md. Alamin</h1>
 <p align="center">
   A passionate <b>Full-Stack Developer</b> from Bangladesh 🇧🇩 <br>
