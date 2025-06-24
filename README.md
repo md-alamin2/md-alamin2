@@ -1,64 +1,59 @@
-<img src="https://github.com/md-alamin2/md-alamin2/blob/main/github-cover.png"/>
-<h1 align="center">👋 Hi, I'm Md. Alamin</h1>
-<p align="center">
-  A passionate <b>Full-Stack Developer</b> from Bangladesh 🇧🇩 <br>
-  I love building modern web apps that are fast, clean, and user-friendly.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.%20Alamin&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Enthusiast&descAlignY=51&descAlign=62"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
+<p>
+  I'm a passionate <b>Frontend and MERN Stack Developer</b>. I love building web apps that are resposive, fast, clean, and user-friendly. 
 </p>
+<li>📦I'm working on a B2C Parcel Management & Delivery System.</li>
+<li>🚀Improving my backend knowledge with <strong>MongoDB aggregation</strong> and <strong>JWT auth</strong>.</li>
+<li>💬 Actively learning <strong>English communication</strong>.</li>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
+
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-alamin2&theme=algolia&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&layout=compact&theme=algolia&hide_border=true" />
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/>
+</div>
 
 ---
 
-### 🧰 My Tech Stack
-
-#### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-#### 🧩 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF6F91?style=flat-square&logo=daisyui)
-
-#### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-#### 🔐 Auth & Security
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens)
-
-#### 🧠 Libraries & Tools
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform)
-![SweetAlert2](https://img.shields.io/badge/-SweetAlert2-0A0A0A?style=flat-square&logo=swal)
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet)
-
----
-
-### 🛠️ Services I Provide
-- 📄 Data Entry  
-- 🕸️ Web Scraping  
-- 📊 Lead Generation  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Alamin&show_icons=true&theme=react" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Alamin&theme=react" width="45%" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/Md-Alamin)
-
----
-
-> “Keep learning, keep building.” 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!" />
+</div>
