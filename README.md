@@ -10,11 +10,14 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 <p>
-  I'm a passionate <b>Frontend and MERN Stack Developer</b>. I love building web apps that are resposive, fast, clean, and user-friendly. 
+  Hello! I'm Alamin. I'm a passionate <b>Frontend and MERN Stack Developer</b>. I love building web apps that are resposive, fast, clean, and user-friendly. 
 </p>
-<li>📦I'm working on a B2C Parcel Management & Delivery System.</li>
-<li>🚀Improving my backend knowledge with <strong>MongoDB aggregation</strong> and <strong>JWT auth</strong>.</li>
-<li>💬 Actively learning <strong>English communication</strong>.</li>
+
+- 📦 Currently building a B2C Parcel Management & Delivery System using MERN stack  
+- 🔐 Enhancing backend knowledge with **MongoDB Aggregation**, **JWT Authentication**, and **Firebase Auth**  
+- 💬 Actively working on improving my **English communication skills** for global collaboration  
+- 🎯 Goal: Become a full-stack specialist who builds real-world apps with clean UI/UX
+- 🤝 Open to: Collaborations, internship opportunities, and contributing to open-source
 
 
 
@@ -40,7 +43,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+#### 🧠 Currently Exploring
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
