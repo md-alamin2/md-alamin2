@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.%20Alamin&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Enthusiast&descAlignY=51&descAlign=62"/>
 </div>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=md-alamin2&label=Profile%20views&color=38BDF8&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
@@ -43,13 +47,17 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
 
-<div align="center">
+<div>
   
   <a href="http://www.github.com/md-alamin2"><img src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="md-alamin2's GitHub stats" /></a>
 
 <a href="http://www.github.com/md-alamin2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-alamin2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/md-alamin2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-alamin2&bg_color=1c1917&color=38bdf8&line=22d3ee&point=38bdf8&area=true&hide_border=true" />
+</div>
   
 </div>
 
