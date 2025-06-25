@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.%20Alamin&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Enthusiast&descAlignY=51&descAlign=62"/>
 </div>
 
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 <p>
   I'm a passionate <b>Frontend and MERN Stack Developer</b>. I love building web apps that are resposive, fast, clean, and user-friendly. 
@@ -38,18 +40,38 @@
 
 </div>
 
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-alamin2&theme=algolia&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&layout=compact&theme=algolia&hide_border=true" />
+  <a href="http://www.github.com/md-alamin2"><img src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="md-alamin2's GitHub stats" /></a>
+
+<a href="http://www.github.com/md-alamin2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-alamin2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/md-alamin2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 </div>
+
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-alamin2&theme=onedark&row=1&margin-w=10" />
+</p>
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.facebook.com/alamin.akash.7399" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-al-amin-7a191b339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdalamin22671@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/>
