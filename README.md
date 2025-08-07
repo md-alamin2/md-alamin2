@@ -25,46 +25,50 @@
 
 <div>
 
-### Frontend
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Tools & Others
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🧠 Currently Exploring
+### 🔍 Currently Exploring
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-</div>
+---
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
 
-<div>
-  
-  <a href="http://www.github.com/md-alamin2"><img src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="md-alamin2's GitHub stats" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=md-alamin2&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="http://www.github.com/md-alamin2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-alamin2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/md-alamin2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-alamin2&bg_color=1c1917&color=38bdf8&line=22d3ee&point=38bdf8&area=true&hide_border=true" />
-</div>
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-alamin2&theme=github-compact&area=true&hide_border=true" />
+</p>
+
+---
 
 
 ## 🏆 GitHub Profile Trophy
@@ -73,17 +77,19 @@
 </p>
 
 ## 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/alamin.akash.7399" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-al-amin-7a191b339/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mdalamin22671@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 
 
 <div align="center">
@@ -92,6 +98,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=3000&color=38BDF8&center=true&vCenter=true&width=500&lines=💻+Happy+Coding!;Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together!" />
+</p>
