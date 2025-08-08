@@ -9,15 +9,9 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
-<p>
-  Hello! I'm Alamin. I'm a passionate <b>Frontend and MERN Stack Developer</b>. I love building web apps that are resposive, fast, clean, and user-friendly. 
-</p>
-
-- 📦 Currently building a B2C Parcel Management & Delivery System using MERN stack  
-- 🔐 Enhancing backend knowledge with **MongoDB Aggregation**, **JWT Authentication**, and **Firebase Auth**  
-- 💬 Actively working on improving my **English communication skills** for global collaboration  
-- 🎯 Goal: Become a full-stack specialist who builds real-world apps with clean UI/UX
-- 🤝 Open to: Collaborations, internship opportunities, and contributing to open-source
+Hi, I'm **MD. Alamin** — a passionate **Frontend Developer** and **MERN Stack Enthusiast** from Bangladesh 🇧🇩.  
+I build **fast, responsive, and user-friendly web apps** with clean UI/UX.  
+Always curious and learning, I aim to turn ideas into impactful digital experiences.
 
 
 
