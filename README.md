@@ -50,7 +50,7 @@ Always curious and learning, I aim to turn ideas into impactful digital experien
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-alamin2&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=md-alamin2&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=md-alamin&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-alamin2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
