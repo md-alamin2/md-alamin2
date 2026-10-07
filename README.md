@@ -57,7 +57,7 @@ Always curious and learning, I aim to turn ideas into impactful digital experien
 
 ---
 
-## 📈 Activity Graph
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-alamin2&theme=github-compact&area=true&hide_border=true" />
