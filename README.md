@@ -41,6 +41,7 @@ Always curious and learning, I aim to turn ideas into impactful digital experien
 
 ### 🔍 Currently Exploring
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ---
