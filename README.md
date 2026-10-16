@@ -9,7 +9,7 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
-Hi, I'm **MD. Alamin Hossain** a passionate **Frontend Developer** and **MERN Stack Enthusiast** from Bangladesh 🇧🇩.  
+Hello, I'm **MD. Alamin Hossain** a passionate **Frontend Developer** and **MERN Stack Enthusiast** from Bangladesh 🇧🇩.  
 I build **fast, responsive, and user-friendly web apps** with clean UI/UX.  
 Always curious and learning, I aim to turn ideas into impactful digital experiences.
 
